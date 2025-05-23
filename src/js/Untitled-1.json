@@ -1,0 +1,25 @@
+{
+  "nom": "T-shirt coton bio - Bleu marine",
+  "prix": 24.90,
+  "reference": "TSH1234BM",
+  "disponible": true,
+  "description": "Un t-shirt en coton biologique, doux et résistant, idéal pour un usage quotidien. Coupe unisexe.",
+  "produits_lies": [
+    {
+      "nom": "T-shirt coton bio - Blanc",
+      "prix": 24.90,
+      "reference": "TSH1234BL",
+      "disponible": true,
+      "description": "Le même modèle en version blanche, pour un style sobre et élégant.",
+      "produits_lies": []
+    },
+    {
+      "nom": "Sweatshirt coton bio - Bleu marine",
+      "prix": 49.90,
+      "reference": "SWT5678BM",
+      "disponible": false,
+      "description": "Sweatshirt assorti au t-shirt, parfait pour les journées plus fraîches.",
+      "produits_lies": []
+    }
+  ]
+}

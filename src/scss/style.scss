@@ -1,0 +1,19 @@
+@import "./utils/bootstrap";
+
+@import "./utils/global";
+ body {
+      font-family: 'Poppins', sans-serif;
+    }
+    .logo {
+      font-family: 'Bebas Neue', sans-serif;
+      font-size: 28px;
+    }
+    .container-1200 {
+      max-width: 1200px;
+      margin: 0 auto;
+    }
+    .badge-panier {
+      font-size: 12px;
+      padding: 4px 6px;
+    }
+    
